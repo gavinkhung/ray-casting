@@ -4,7 +4,7 @@ Ray Casting is a technique to create a 3D rendition from a 2D matrix. This imple
 
 ## Screenshot
 
-![Ray Casting](./demo.gif)
+![Ray Casting](./map.png)
 
 ## Run Locally
 
